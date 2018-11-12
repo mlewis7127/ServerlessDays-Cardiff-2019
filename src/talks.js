@@ -16,6 +16,14 @@ module.exports = [
     abstract: `Need a quick and simple mechanism to collect, analyse and visualise data from your serverless apps, without running servers of course? In this case study, we’ll explore one example of application simplification and cost optimisation by removing Elasticsearch and Kibana from an application architecture, replacing them with a scalable serverless alternative, reducing running costs for the app by more than 90% in the process. Based on AWS services, this talk will feature AWS Lambda, Kinesis, Glue, Athena & QuickSight.`
   },
   {
+    key: "simona-cotin",
+    bio: "Simona is a Senior Cloud Developer Advocate with Microsoft Azure. She is a web developer with a passion for teaching. She spends most of her time tinkering with JavaScript in the cloud and sharing her experience with other developers at community events like meetups and conferences or online.",
+    photoUrl: "simona-cotin.jpg",
+    title: "Build Scalable APIs using GraphQL and Serverless",
+    speaker: "Simona Cotin",
+    abstract: `Current trends in software and backend architecture is evolving towards a more loosely coupled more granular design. The latest development on that front is the advent of serverless which allows you to run applications in very cost-effective ephemeral services. This is why it is important to have a proper gateway for your API that is able to route all your requests to the designated endpoint. GraphQL stands out in that respect as being a mature open sourced standard started at Facebook.`
+  },
+  {
     key: "bret-mcgowen",
     bio: "",
     photoUrl: "bret-mcgowen.jpg",
