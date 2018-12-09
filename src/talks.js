@@ -23,15 +23,4 @@ module.exports = [
     speaker: "Simona Cotin",
     abstract: `Current trends in software and backend architecture is evolving towards a more loosely coupled more granular design. The latest development on that front is the advent of serverless which allows you to run applications in very cost-effective ephemeral services. This is why it is important to have a proper gateway for your API that is able to route all your requests to the designated endpoint. GraphQL stands out in that respect as being a mature open sourced standard started at Facebook.`
   },
-  {
-    key: "bret-mcgowen",
-    bio: "",
-    photoUrl: "bret-mcgowen.jpg",
-    title: "Build serverless web apps with Google's Firebase",
-    speaker: "Bret McGowen",
-    abstract: `With Firebase, you can build truly serverless mobile and web applications!
-    In the first part of this workshop, you’ll get hands-on experience building a web application using Firebase products. Firebase provides the entire backend for this app, so won’t won’t need to deal with servers at all.
-    In the second part, you’ll add some new features to the app using Cloud Functions for Firebase. You’ll write backend code in JavaScript, again, without the need to maintain or scale backend servers.`,
-    workshop: true
-  }
 ];
