@@ -81,7 +81,7 @@ module.exports = [
   },
   {
     key: "liam-betsworth",
-    bio: "Liam is Head of User Experience at AMPLYFI.",
+    bio: "Liam is Head of User Experience at AMPLYFI. Over the past decade Liam has worked in number of fields, including academia, user experience design and mobile/web development. In his current position – working in a growing startup – he spends much of his time switching between roles, contributing to user experience design, software development and wider technical discussions.\n Coming from a predominantly server-based background, Liam has spent the last year experimenting with serverless, uncovering the good, the bad and the ugly. He's currently in the process of rearchitecting customer facing APIs, deciding how, when and when not to use serverless.",
     photoUrl: "liam-betsworth.jpg",
     title: "Server or Serverless: The AMPLYFI Story",
     speaker: "Liam Betsworth",
