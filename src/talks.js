@@ -87,4 +87,12 @@ module.exports = [
     speaker: "Liam Betsworth",
     abstract: `AMPLYFI’s purpose is to fundamentally transform organisations’ decision making, business intelligence and research capabilities by enabling them to unlock the internet for themselves. They are tipped to be Wales’ first unicorn startup, and this year have already won the Wales 2018 Innovative Startup of the Year and the Spectator’s Economic Disruptor of the Year for the North West and Wales. Find out the real life experience of adopting serverless as a start up.`
   },
+  {
+    key: "slobodan-stojanovic",
+    bio: "Slobodan Stojanović is CTO of Cloud Horizon, a software development studio based in Montreal Canada. He is based in Belgrade and is the JS Belgrade meetup co-organizer. \nSlobodan is an AWS Serverless Hero, Claudia.js core team member, and co-author of “Serverless Applications with Node.js” book, published by Manning Publications.",
+    photoUrl: "slobodan-stojanovic.jpg",
+    title: "Testing serverless applications",
+    speaker: "Slobodan Stojanović",
+    abstract: `Serverless is more than a cloud computing execution model. It changes the way we are planning, building and deploying apps. But it also changes the way we are approaching testing apps.\n This talk explores the way we are and should test serverless apps, differences between testing traditional and serverless apps, and how does serverless affect other types of testing, including manual testing and UI testing.`
+  },
 ];
