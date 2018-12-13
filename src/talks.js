@@ -95,4 +95,12 @@ module.exports = [
     speaker: "Slobodan Stojanović",
     abstract: `Serverless is more than a cloud computing execution model. It changes the way we are planning, building and deploying apps. But it also changes the way we are approaching testing apps.\n This talk explores the way we are and should test serverless apps, differences between testing traditional and serverless apps, and how does serverless affect other types of testing, including manual testing and UI testing.`
   },
+  {
+    key: "bret-mcgowen",
+    bio: "Bret is a Developer Advocate for Serverless on the Google Cloud Platform team at Google, focusing on serverless products like Google Cloud Functions, App Engine, Firebase, machine learning APIs, and more. He's currently an aspiring Node.js developer",
+    photoUrl: "bret-mcgowen.jpg",
+    title: "Serverless beyond functions: Google's mobile, big data, and machine learning serverless tools",
+    speaker: "Bret McGowen",
+    abstract: `Bret will cover Google Cloud's serverless compute, big data and machine learning tools, as well as Firebase, Google's serverless backend for mobile and web developers. Firebase can help you add powerful features to your applications, with everything from real time data updates, user authentication, monetizing your apps, and more. Learn how to leverage the power of Google to quickly build autoscaling apps - all without managing servers or application runtimes.`
+  },
 ];
