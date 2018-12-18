@@ -103,4 +103,13 @@ module.exports = [
     speaker: "Bret McGowen",
     abstract: `Bret will cover Google Cloud's serverless compute, big data and machine learning tools, as well as Firebase, Google's serverless backend for mobile and web developers. Firebase can help you add powerful features to your applications, with everything from real time data updates, user authentication, monetizing your apps, and more. Learn how to leverage the power of Google to quickly build autoscaling apps - all without managing servers or application runtimes.`
   },
+  {
+    key: "dean-bryen",
+    bio: "Dean is a Principal Developer Advocate with Microsoft Azure. He has worked with serverless since it's inception, having previously worked at AWS and Amazon Alexa. His technical interests are focused around Serverless, Node.JS, Devops and Architecture. You can often find him discussing these at Meetups, Conferences and on Twitter.",
+    photoUrl: "dean-bryen.jpg",
+    title: "Serverless and CI/CD",
+    speaker: "Dean Bryen",
+    abstract: `CI/CD is part of the furniture in any modern software development team. But do things need to change when it comes to serverless? \n With serverless our applications possess some unique properties such as: multiple small individual units of deployment (functions) and an architecture comprising multiple cloud services beyond our functions.\n In this session we'll look at these considerations and explore how to make best use of CI/CD with serverless.`
+  },
+
 ];
