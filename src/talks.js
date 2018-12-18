@@ -111,5 +111,13 @@ module.exports = [
     speaker: "Dean Bryen",
     abstract: `CI/CD is part of the furniture in any modern software development team. But do things need to change when it comes to serverless? \n With serverless our applications possess some unique properties such as: multiple small individual units of deployment (functions) and an architecture comprising multiple cloud services beyond our functions.\n In this session we'll look at these considerations and explore how to make best use of CI/CD with serverless.`
   },
+  {
+    key: "lesley-cowley",
+    bio: "",
+    photoUrl: "lesley-cowley.jpg",
+    title: "Welcome to ServerlessDays Cardiff",
+    speaker: "Lesley Cowley OBE",
+    abstract: `Lesley Cowley is very familiar with South Wales, being chair of both DVLA and Companies House, alongside lead non-executive director of The National Archives. Lesley was previously CEO of Nominet, a role she held from 2004-14. She also served as ICANN ccNSO Chair and as a Member of the UK Government Cyber Crime Reduction Partnership. She was awarded an OBE for services to the Internet and e-commerce in 2011. Computer Weekly named her as one of the top five most influential women in IT in both 2012 and 2013, and the following year she was awarded the inaugural ICANN Leadership Award. \n Lesley is well known for her support of Women in IT, mentoring and championing diversity and inclusion.`
+  },
 
 ];
