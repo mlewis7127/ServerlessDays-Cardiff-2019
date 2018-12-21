@@ -119,5 +119,13 @@ module.exports = [
     speaker: "Lesley Cowley OBE",
     abstract: `Lesley Cowley is very familiar with South Wales, being chair of both DVLA and Companies House, alongside lead non-executive director of The National Archives. Lesley was previously CEO of Nominet, a role she held from 2004-14. She also served as ICANN ccNSO Chair and as a Member of the UK Government Cyber Crime Reduction Partnership. She was awarded an OBE for services to the Internet and e-commerce in 2011. Computer Weekly named her as one of the top five most influential women in IT in both 2012 and 2013, and the following year she was awarded the inaugural ICANN Leadership Award. \n Lesley is well known for her support of Women in IT, mentoring and championing diversity and inclusion.`
   },
+  {
+    key: "danilo-poccia",
+    bio: "Danilo works with startups and companies of any size to support their innovation. In his role as Evangelist at Amazon Web Services, he leverages his experience to help people bring their ideas to life, focusing on serverless architectures and event-driven programming, and on the technical and business impact of machine learning and edge computing. He is the author of AWS Lambda in Action from Manning.",
+    photoUrl: "danilo-poccia.jpg",
+    title: "Taking Serverless to the Next Level",
+    speaker: "Danilo Poccia",
+    abstract: `What are the top best practices to build and run applications without thinking about servers? Model your serverless components as templates and deploy your infrastructure as config to leverage best practices such as code reviews. Step-through and debug your code with a local execution environment. Coordinate and manage the state of each distributed component. Continuously deliver your code in production using application lifecycle management tools. Enable gradual, safe deployments. To support our findings, we’ll review customer case studies to see what they did, why, and which benefits they got most.`
+  },
 
 ];
