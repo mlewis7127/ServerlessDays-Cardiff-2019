@@ -127,5 +127,12 @@ module.exports = [
     speaker: "Danilo Poccia",
     abstract: `What are the top best practices to build and run applications without thinking about servers? Model your serverless components as templates and deploy your infrastructure as config to leverage best practices such as code reviews. Step-through and debug your code with a local execution environment. Coordinate and manage the state of each distributed component. Continuously deliver your code in production using application lifecycle management tools. Enable gradual, safe deployments. To support our findings, we’ll review customer case studies to see what they did, why, and which benefits they got most.`
   },
-
+  {
+    key: "rob-allen",
+    bio: "Rob is a PHP and Zend Framework expert based in Worcester, UK. He is Lead developer of Slim Framework, maintainer of rst2pdf and interested in solving interesting problems with APIs in PHP, OpenWhisk and Swift",
+    photoUrl: "rob-allen.jpg",
+    title: "TBC",
+    speaker: "Rob Allen",
+    abstract: ``
+  },
 ];
