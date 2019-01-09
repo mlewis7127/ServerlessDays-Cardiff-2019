@@ -84,7 +84,7 @@ module.exports = [
     bio: "Liam is Head of User Experience at AMPLYFI. Over the past decade Liam has worked in number of fields, including academia, user experience design and mobile/web development. In his current position – working in a growing startup – he spends much of his time switching between roles, contributing to user experience design, software development and wider technical discussions.\n Coming from a predominantly server-based background, Liam has spent the last year experimenting with serverless, uncovering the good, the bad and the ugly. He's currently in the process of rearchitecting customer facing APIs, deciding how, when and when not to use serverless.",
     photoUrl: "liam-betsworth.jpg",
     title: "Server or Serverless: The AMPLYFI Story",
-    speaker: "Liam Betsworth",
+    speaker: "Dr Liam Betsworth",
     abstract: `AMPLYFI’s purpose is to fundamentally transform organisations’ decision making, business intelligence and research capabilities by enabling them to unlock the internet for themselves. They are tipped to be Wales’ first unicorn startup, and this year have already won the Wales 2018 Innovative Startup of the Year and the Spectator’s Economic Disruptor of the Year for the North West and Wales. Find out the real life experience of adopting serverless as a start up.`
   },
   {
