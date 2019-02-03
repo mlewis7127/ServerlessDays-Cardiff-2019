@@ -61,11 +61,12 @@ gulp.task("generateTalks", ["dev-assets"], () => {
     encoding: "utf-8",
   });
   talks.forEach(talk => {
-    const { key, photoUrl, title, speaker, abstract, bio, workshop } = talk;
+    const { key, photoUrl, title, speaker, link, abstract, bio, workshop } = talk;
     const content = template
       .replace(/%photoUrl%/gi, photoUrl)
       .replace(/%title%/gi, title)
       .replace(/%speaker%/gi, speaker)
+      .replace(/%link%/gi, link)
       .replace(/%bio%/gi, bio)
       .replace(/%abstract%/gi, abstract.replace(/\n/g, "<br/><br/>"))
       .replace(/%key%/gi, key)
