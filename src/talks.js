@@ -123,7 +123,7 @@ module.exports = [
     title: "Serverless and CI/CD",
     speaker: "Dean Bryen",
     abstract: `CI/CD is part of the furniture in any modern software development team. But do things need to change when it comes to serverless? \n With serverless our applications possess some unique properties such as: multiple small individual units of deployment (functions) and an architecture comprising multiple cloud services beyond our functions.\n In this session we'll look at these considerations and explore how to make best use of CI/CD with serverless.`,
-    link: ``
+    link: `https://www.slideshare.net/DeanBryen/serverless-and-cicd`
   },
   {
     key: "lesley-cowley",
