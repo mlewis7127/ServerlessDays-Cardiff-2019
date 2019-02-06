@@ -42,7 +42,7 @@ module.exports = [
     title: "Security: the Serverless Future",
     speaker: "Olga Skobeleva",
     abstract: `Does security have to come at a cost of performance and maintenance? Your security is only as strong as the weakest human link and their patience and diligence in following proper protocols. Serverless computing is the future of how complex software systems and their security will be designed and built. This talk will demonstrate several migration cases that Serverless technology can already help with today.\nSome modern hosting platforms don’t give you enough access to deploy certain security features. Let’s say you would like to use security headers like Content Security Policy and Strict Transport Security, mange bot traffic, or do some advanced multi-factor authentication; that can be a struggle and consume many resources in your current infrastructure. With futuristic serverless platforms, such solutions can be deployed in seconds.`,
-    link: ``
+    link: `./Olga-Workers-Security-Cardiff.pdf`
   },
   {
     key: "gillian-armstrong",
