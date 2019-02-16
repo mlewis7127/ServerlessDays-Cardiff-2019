@@ -96,7 +96,7 @@ module.exports = [
     title: "Server or Serverless: The AMPLYFI Story",
     speaker: "Dr Liam Betsworth",
     abstract: `AMPLYFI’s purpose is to fundamentally transform organisations’ decision making, business intelligence and research capabilities by enabling them to unlock the internet for themselves. They are tipped to be Wales’ first unicorn startup, and this year have already won the Wales 2018 Innovative Startup of the Year and the Spectator’s Economic Disruptor of the Year for the North West and Wales. Find out the real life experience of adopting serverless as a start up.`,
-    link: ``
+    link: `./Amplyfi-Serverless.pdf`
   },
   {
     key: "slobodan-stojanovic",
